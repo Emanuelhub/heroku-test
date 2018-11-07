@@ -1,0 +1,12 @@
+{
+  "buildpacks": [
+    {
+		"url": "https://github.com/Emanuelhub/heroku-test/tree/master/com.heroku.hosp"
+    },
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
+
+
