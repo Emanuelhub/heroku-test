@@ -1,10 +1,10 @@
 {
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
+		"url": "https://github.com/Emanuelhub/heroku-test/tree/master/com.heroku.hosp"
     },
     {
-      "url": "heroku/ruby"
+      "url": "heroku/java"
     }
   ]
 }
