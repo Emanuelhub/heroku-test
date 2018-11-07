@@ -1,9 +1,0 @@
-{
-  "name": "Spring Boot Heroku Demo",
-  "description": "This is a small demo to me.",
-  "repository": "https://github.com/Emanuelhub/heroku-test/tree/master/com.heroku.hosp",
-  "image": "heroku/java",
-  "addons": [ "heroku-postgresql" ]
-}
-
-
